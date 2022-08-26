@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Azeem
-- 👀 I tal and do Cyber and Cloud..
+- 👀 I talk and do Cyber and Cloud..
 - 🌱 I’m currently learning Red Hat Linux and SIEM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
